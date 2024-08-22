@@ -1,0 +1,1 @@
+Whaling attacks, often referred to as CEO fraud or executive phishing, are sophisticated cyberthreats targeting an organization's high-profile individuals. These attacks are carefully designed to deceive top executives, such as CEOs and CFOs, into giving away sensitive information.
